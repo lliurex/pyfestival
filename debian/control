@@ -10,5 +10,5 @@ Homepage: https://github.com/techiaith/pyfestival
 
 Package: pyfestival
 Architecture: all
-Depends: ${python3:Depends},python3,festival
+Depends: ${python3:Depends},python3,festival,lame
 Description: A Python wrapper around the Festival Speech Synthesis System.
